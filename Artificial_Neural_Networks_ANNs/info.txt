@@ -1,0 +1,11 @@
+Info file for the folder
+
+Jupyter notbooks
+Python:
+Tensorflow
+Keras
+Seaborn
+Pandas
+Numpy
+
+Examples of ANNs Artificial Neural Networks
